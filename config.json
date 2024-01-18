@@ -1,0 +1,11 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql_uri",
+    "prod_uri": "mysql_production_uri",
+    "gmail-user": "yourgmail",
+    "gmail-password": "yourpassword",
+    "ig_url": "instagram_url",
+    "ln_url": "ln_url"
+  }
+}
